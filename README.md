@@ -21,11 +21,10 @@ NRC: 7309
 
 •	 Determinar potencia en un circuito en serie y paralelo.
 
-•	 Medir voltaje con respecto a tierra y localizar fallas en circuitos en serie y paralelo.
+•	 Medir voltaje con respecto a tierra y localizar fallas en circuitos en serie
 
 •	Determinar el voltaje a través de cada rama en paralelo.
 
-•	 Describir algunas aplicaciones básicas de circuitos en paralelo.
 
 
 # Marco Teorico 
@@ -78,6 +77,8 @@ NRC: 7309
 # Conclusiones 
 
 Llegue a la conclusion que los circuitos en serie y en paralelo tiene sus propias caracteristicas, formulas y distintos procedimientos que los hacen unicos pero hay algo en que se los relaciones y son en las unidades del SI ademas de la ley de ohm y kirchhoff.
+
+Utilizamos los circuitos en serie y en paralelo como un divisor de voltaje para entender y comprender su funcionamiento. 
 
 Con los ejercicios realizados se puede determinar los cálculos siempre estan acompaños de una unidad de medida.
 
