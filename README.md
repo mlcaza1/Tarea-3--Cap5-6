@@ -31,7 +31,7 @@ NRC: 7309
 # Marco Teorico 
 
 
-# Capitulo 5-6
+# Capitulo 5
 
 
 ![Mind Map(1)](https://user-images.githubusercontent.com/105812540/172297241-ecefc56e-3ccd-4374-b148-cb242bab2fc8.jpg)
@@ -49,6 +49,22 @@ NRC: 7309
 ![Mind Map(7)](https://user-images.githubusercontent.com/105812540/172298059-58f96bf3-7f06-4e7b-9abf-c5432f6076dd.jpg)
 
 ![Mind Map(8)](https://user-images.githubusercontent.com/105812540/172298131-15139568-60f1-4139-b0d0-cfd608845627.jpg)
+
+# Capitulo 5
+
+![Mind Map(9)](https://user-images.githubusercontent.com/105812540/172314560-bff19e99-a1c8-4cce-a055-c9e120742b94.jpg)
+
+![Mind Map(10)](https://user-images.githubusercontent.com/105812540/172314695-8fda3d16-3028-420f-9fce-74ad900a46ee.jpg)
+
+![Mind Map(11)](https://user-images.githubusercontent.com/105812540/172314797-7057b30d-2f9b-443e-97c3-ea8fba96c87a.jpg)
+
+![Mind Map(12)](https://user-images.githubusercontent.com/105812540/172314880-7212dd8c-af01-4163-bca6-58e3c6cb6178.jpg)
+
+![Mind Map(13)](https://user-images.githubusercontent.com/105812540/172315000-7d8d571f-0e18-4af2-b2b0-3ab22cce5dad.jpg)
+
+![Mind Map(15)](https://user-images.githubusercontent.com/105812540/172315079-36034930-fc0c-4b89-8114-d66b280c6800.jpg)
+
+![Mind Map(15)](https://user-images.githubusercontent.com/105812540/172315189-ab39f8b3-1dcf-4f03-b6a1-b990a6460816.jpg)
 
 
 
