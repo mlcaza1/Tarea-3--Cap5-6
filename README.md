@@ -151,7 +151,7 @@ NRC: 7309
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172341270-b5d77f45-fd7b-42f1-9b84-0a2c7d1c3383.png)
 
-![imagen](https://user-images.githubusercontent.com/105812540/172412536-f31bc923-2a99-4231-adeb-3852a76417b3.png)
+![imagen](https://user-images.githubusercontent.com/105812540/172421658-194f44ce-2698-4ecb-8dd0-ed54eee63eb9.png)
 
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
@@ -238,15 +238,20 @@ Se tiene que identificar la resistencia que se encuentre abierta posteriormente 
 ![imagen](https://user-images.githubusercontent.com/105812540/172421066-3318106f-07dc-4358-b215-0ec6f4c0e1ba.png)
 
 *Capitulo 6*
+
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172342721-57cc3809-92dd-426a-8145-b3427c66cc03.png)
 
+Si esta en paralelo el circuito 
+
 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
 
 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172342987-75709a83-5d63-41bd-9d39-8b0e9bcbdfd1.png)
+
 
 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
