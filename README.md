@@ -77,6 +77,12 @@ NRC: 7309
 
 # Conclusiones 
 
+Llegue a la conclusion que los circuitos en serie y en paralelo tiene sus propias caracteristicas, formulas y distintos procedimientos que los hacen unicos pero hay algo en que se los relaciones y son en las unidades del SI ademas de la ley de ohm y kirchhoff.
+
+Con los ejercicios realizados se puede determinar los cálculos siempre estan acompaños de una unidad de medida.
+
+Con la ayuda tecnológica y programas se puede realizar de forma más sencilla los cálculos.
+
 
 # Bibliografia 
 
