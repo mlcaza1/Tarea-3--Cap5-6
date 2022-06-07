@@ -75,26 +75,45 @@ NRC: 7309
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172340950-fca7e916-6a9d-4a4d-a026-6a98a34e460a.png)
 
+*La resistencias presentes en el circuito estan en serie* 
+
 4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
 
 6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
 
+![imagen](https://user-images.githubusercontent.com/105812540/172345096-aaed2352-4639-4d40-a5c1-88f84ba12158.png)
+
 8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
+
+![imagen](https://user-images.githubusercontent.com/105812540/172346239-c14b7108-40bf-4b3e-a9d0-69f52ea4ae61.png)
 
 
 10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
+
+![imagen](https://user-images.githubusercontent.com/105812540/172346585-6346719a-cf76-40e0-a5f5-afc6563e537a.png)
 
 12. Calcule la RT en cada circuito de la figura 5-71.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172340886-9c2de0bb-5380-41d6-a78b-c83f28a99743.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/172347702-592d904d-1f83-4e25-9c77-ce324c994694.png)
+
+
 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
 
+![imagen](https://user-images.githubusercontent.com/105812540/172348846-eb7a1a5b-d478-4fbf-933d-0ec77e0a74b7.png)
+
+
+
 16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 k Ω, 2.2 k Ω, y 5.6 k Ω. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 k Ω. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+![imagen](https://user-images.githubusercontent.com/105812540/172348951-fc0f0ddc-558b-4da1-a9c9-dd7d86320b3f.png)
 
 18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172341038-ead1a530-7bc1-44d6-93bd-3179afd9aa1c.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/172348970-703faac3-6ced-4e82-9acf-f1f2564e2162.png)
 
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
