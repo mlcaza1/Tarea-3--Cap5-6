@@ -119,12 +119,17 @@ NRC: 7309
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172341074-58f23680-f795-4bec-9b2d-4076d8361f18.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/172350100-2fa2eb01-3e51-472a-86aa-115f756ff9db.png)
+
 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
+![imagen](https://user-images.githubusercontent.com/105812540/172350682-d49c06a7-991f-4f90-8632-e738664f167e.png)
 
 24. Determine VR1, R2 y R3 en la figura 5-76.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/172341142-30f0b4aa-c045-4dfa-9487-32755df45f8c.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/172350855-25b1aeef-36ee-400f-8ef8-783e7e557131.png)
 
 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
