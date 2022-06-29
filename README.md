@@ -250,7 +250,7 @@ Utilizamos los circuitos en serie y en paralelo como un divisor de voltaje para 
 
 Con los ejercicios realizados se puede determinar los cálculos siempre estan acompaños de una unidad de medida.
 
-Con la ayuda tecnológica y programas se puede realizar de forma más sencilla los cálculos.
+Con la ayuda tecnológica y programas se puede realizar de forma más sencilla los cálculos.-
 
 
 # Bibliografia 
